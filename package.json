@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "cypress": "^6.6.0",
-    "mocha": "^8.3.1",
+    "mocha": "^10.2.0",
     "mochawesome": "^6.2.2",
     "redux-logger": "^3.0.6"
   },
